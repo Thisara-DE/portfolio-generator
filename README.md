@@ -1,53 +1,127 @@
+# 🎯 Portfolio Generator
 
-  # Portfolio-Generator
-  ## Description
-  This is an exciting one! This application can build you your own personal portfolio page with the information you provide about your github repositories. This is a node.js based application an you will be entering the the information into the cmd.
+> Automatically create a stunning personal portfolio webpage from your GitHub repositories
 
-  <br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub Stars](https://img.shields.io/github/stars/Thisara-DE/portfolio-generator?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Thisara-DE/portfolio-generator?style=social)
 
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)  
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+## ✨ Features
 
-  <br>
+- 🚀 **Automated Portfolio Generation** - Turn your GitHub repos into a professional portfolio with a single command
+- 🎨 **Modern Design** - Clean, responsive HTML and CSS styling
+- ⚡ **Easy Setup** - Simple Node.js-based application, quick installation
+- 🔧 **Customizable** - Built with vanilla JavaScript and CSS for easy modifications
 
-  ## Installation
-  To install necessary dependencies, run the following command: <br><br>
-  npm install
+## 🛠 Tech Stack
 
-  <br>
+| Technology | Purpose |
+|-----------|---------|
+| **Node.js** | Backend runtime |
+| **JavaScript** | Logic & interactivity |
+| **HTML** | Structure |
+| **CSS** | Styling & responsiveness |
 
-  ## Usage
-  This project is using following technologies: <br><br>
-  Node.js,  JavaScript,  HTML,  CSS
+## 📋 Table of Contents
 
-  <br>
+- [Quick Start](#quick-start)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Testing](#testing)
+- [License](#license)
+- [Questions](#questions)
 
-  ## License
-  
-  This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  For more information [visit here.](https://opensource.org/licenses)
-  
-  
-  <br>
+## 🚀 Quick Start
 
-  ## Contributing
-  You can email me if you have ideas/comments on improving this application.  
+```bash
+# Clone the repository
+git clone https://github.com/Thisara-DE/portfolio-generator.git
 
-  <br>
+# Navigate to the directory
+cd portfolio-generator
 
-  ## Tests <br>
-  npm test
+# Install dependencies
+npm install
 
-  <br>
+# Run the application
+npm start
+```
 
-  ## Questions
-  If you have any questions, email me: thisaraeranga@gmail.com
+## 📦 Installation
 
-  <br>
+### Prerequisites
+- Node.js (v12 or higher)
+- npm (Node Package Manager)
 
-  ## &copy; 2022 by [ThisaraMallawaArachchige](https://github.com/ThisaraMallawaArachchige)
+### Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Thisara-DE/portfolio-generator.git
+   cd portfolio-generator
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **You're ready to go!** 🎉
+
+## 💡 Usage
+
+This project uses modern web technologies to build your portfolio:
+
+- **Node.js** - Backend processing
+- **JavaScript** - Dynamic functionality
+- **HTML** - Page structure
+- **CSS** - Beautiful styling
+
+### Getting Started
+```bash
+npm start
+```
+
+Your portfolio will be generated and ready to showcase!
+
+## 🧪 Testing
+
+Run the test suite to ensure everything is working correctly:
+
+```bash
+npm test
+```
+
+## 🤝 Contributing
+
+We'd love your feedback and suggestions! If you have ideas for improving this application:
+
+📧 **Email:** thisaraeranga@gmail.com
+
+Feel free to:
+- Open an issue for bugs or feature requests
+- Submit a pull request with improvements
+- Share your feedback and ideas
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+
+Learn more about the [MIT License](https://opensource.org/licenses/MIT).
+
+## ❓ Questions
+
+Have questions? Get in touch!
+
+📧 **Email:** thisaraeranga@gmail.com
+
+---
+
+<div align="center">
+
+**Made with ❤️ by [Thisara Mallawa Arachchige](https://github.com/ThisaraMallawaArachchige)**
+
+© 2022 • All rights reserved
+
+</div>
